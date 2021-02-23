@@ -1,3 +1,3 @@
 # Primera-Repo
 correo : i.revuelta@alumnos.upm.es
-![Imagen] (./desgastatuszapas.jpg)
+![Imagen] (./desgastatuszapas.png)
